@@ -10,6 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Nuevo Proyecto de Juego"
+config/name="Reproducir movimiento"
+run/main_scene="uid://qvyv3jx3n8ym"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
